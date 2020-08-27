@@ -1,5 +1,5 @@
 view: kpi_by_day {
-  sql_table_name: mart.kpi_by_day ;;
+  sql_table_name: mart.mart.kpi_by_day ;;
   suggestions: no
 
   dimension: active_users {
